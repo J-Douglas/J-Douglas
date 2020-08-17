@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there! 
+
+I'm Jack Douglas, a software engineering student at the University of Waterloo.
+
+I'm currently looking for internship opportunities from January 2020 - April 2020. Please feel free to reach out to me!
 
 <!--
 **J-Douglas/J-Douglas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
