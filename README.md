@@ -6,7 +6,7 @@ I'm currently looking for internship opportunities from January 2021 - April 202
 
 ## Work Experience and Interests
 
-I am currently working @ Geminare as a machine learning software developer. I previously worked as a software developer in the Focused Ultrasound Lab at Sunnybrook Hospital.
+I am currently working at Geminare as a machine learning software developer. I previously worked as a software developer in the Focused Ultrasound Lab at Sunnybrook Hospital.
 
 Some areas of software engineering that interest me include:
 
