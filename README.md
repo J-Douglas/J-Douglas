@@ -1,6 +1,6 @@
 # Hey there! 
 
-## Who am I?
+### Who am I?
 
 I'm **Jack Douglas**, and I am a student at the University of Waterloo studying software engineering. 
 
@@ -20,7 +20,7 @@ Aside from programming, some of my interests and hobbies are:
 
 I'm currently looking for internship opportunities from January 2020 - April 2020. Please feel free to reach out to me.
 
-## Contact Info
+### Contact Info
 
 <code>[LinkedIn](https://www.linkedin.com/in/jack-douglas-910896150/)</code>
 <code>[Email](mailto:jack.douglas@uwaterloo.ca)</code>
