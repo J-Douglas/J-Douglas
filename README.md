@@ -22,8 +22,8 @@ I'm currently looking for internship opportunities from January 2020 - April 202
 
 ## Contact Info
 
-[LinkedIn](https://www.linkedin.com/in/jack-douglas-910896150/)
-[Email](mailto:jack.douglas@uwaterloo.ca)
+<code>[LinkedIn](https://www.linkedin.com/in/jack-douglas-910896150/)</code>
+<code>[Email](mailto:jack.douglas@uwaterloo.ca)</code>
 
 <!--
 **J-Douglas/J-Douglas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
