@@ -1,8 +1,29 @@
 ### Hey there! 
 
-I'm Jack Douglas, a software engineering student at the University of Waterloo.
+## Who am I?
 
-I'm currently looking for internship opportunities from January 2020 - April 2020. Please feel free to reach out to me!
+I'm **Jack Douglas**, and I am a student at the University of Waterloo studying software engineering. 
+
+Some areas of software engineering that interest me include:
+
+- Data science/machine learning
+- Distributed algorithms
+- Security software
+
+⚡ Check out some of the projects I've worked on! ⚡
+
+Aside from programming, some of my interests and hobbies are:
+
+- Sports and statistics ⚾
+- Trivia 📖
+- Movie reviews 🎥
+
+I'm currently looking for internship opportunities from January 2020 - April 2020. Please feel free to reach out to me.
+
+## Contact Info
+
+[LinkedIn](https://www.linkedin.com/in/jack-douglas-910896150/)
+[Email](mailto:jack.douglas@uwaterloo.ca)
 
 <!--
 **J-Douglas/J-Douglas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
