@@ -10,9 +10,9 @@ I am currently working at Geminare as a machine learning software developer. I p
 
 Some areas of software engineering that interest me include:
 
-- Data science/machine learning
+- Machine learning
+- Data science
 - Distributed algorithms
-- Security software
 
 ⚡ Check out some of the projects I've worked on! ⚡
 
