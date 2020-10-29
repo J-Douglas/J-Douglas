@@ -2,7 +2,7 @@
 
 I'm **Jack Douglas**, and I am a student at the University of Waterloo studying software engineering. 
 
-I am looking for September - December 2021 internship opportunities. Please feel free to reach out to me!
+I am looking for September - December 2021 internship opportunities. If my skillset interests you, please reach out to me!
 
 ## Work Experience and Interests
 
@@ -15,6 +15,16 @@ Some areas of software engineering that interest me include:
 - Distributed algorithms
 
 ⚡ Check out some of the projects I've worked on! ⚡
+
+## Hobbies & Extracurriculars
+
+I am the VP of Education for the Waterloo Data Science Club. I have run workshops and mentored computer vision projects for club members. 
+
+Aside from academics, I have been involved with athletics for most of my life. 
+
+- I played elite baseball, which are AAA clubs, for the Ontario Blue Jays and Toronto Mets, and was on the Varsity baseball team ⚾
+- I ski raced out of Osler Bluff, and yearly competed at Ontario provincials ⛷️
+- I played on the Varisty soccer team at OFSAA's ⚽
 
 ## Contact Info 
 
