@@ -2,6 +2,8 @@
 
 I'm **Jack Douglas**, and I am a student at the University of Waterloo studying software engineering. 
 
+I am looking for September - December 2021 internship opportunities. Please feel free to reach out to me!
+
 ## Work Experience and Interests
 
 I am an incoming software engineering intern at Blackberry. I previously worked at Geminare as a machine learning software developer and as a software developer in the Focused Ultrasound Lab at Sunnybrook Hospital.
