@@ -6,7 +6,7 @@ I am looking for September - December 2021 internship opportunities. If my skill
 
 ## Work Experience and Interests
 
-I am an incoming software engineering intern at Blackberry. I previously worked at Geminare as a machine learning software developer and as a software developer in the Focused Ultrasound Lab at Sunnybrook Hospital.
+I am an incoming software engineering intern at Blackberry. I previously worked at Geminare as a machine learning software developer. As well, I worked in the Focused Ultrasound Lab at Sunnybrook Hospital as a software developer.
 
 Some areas of software engineering that interest me include:
 
@@ -22,8 +22,8 @@ I am the VP of Education for the Waterloo Data Science Club. I have run workshop
 
 Aside from academics, I have been involved with athletics for most of my life. 
 
-- I played elite baseball, which are AAA clubs, for the Ontario Blue Jays and Toronto Mets, and was on the Varsity baseball team ⚾
-- I ski raced out of Osler Bluff, and yearly competed at Ontario provincials ⛷️
+- I played elite baseball, which is the highest level of amateur baseball in Ontario, for the Ontario Blue Jays and Toronto Mets ⚾
+- I ski raced out of Osler Bluff, and competed yearly at Ontario provincials ⛷️
 - I played on the Varisty soccer team at OFSAA's ⚽
 
 ## Contact Info 
