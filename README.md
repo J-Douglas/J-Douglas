@@ -10,9 +10,9 @@ I am an incoming software engineering intern at Blackberry. I previously worked 
 
 Some areas of software engineering that interest me include:
 
-- Machine learning
 - Data science
 - Distributed algorithms
+- Concurrent computing
 
 ⚡ Check out some of the projects I've worked on! ⚡
 
