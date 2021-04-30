@@ -6,7 +6,7 @@ I am looking for September - December 2021 internship opportunities. If my skill
 
 ## Experience & Interests
 
-I have worked as an SWE at Blackberry, as a machine learning software developer at Geminare, and as software developer in the FUS Lab at Sunnybrook Hospital.
+I have worked as an SWE at BlackBerry, as a machine learning software developer at Geminare, and as software developer in the FUS Lab at Sunnybrook Hospital.
 
 I am a Workshop Lead for the Waterloo Data Science Club. I have designed and presented workshops on neural networks, computer vision, and clustering. 
 
