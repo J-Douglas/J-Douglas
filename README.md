@@ -1,30 +1,19 @@
-# Hey there! 
+# Hey there! I'm **Jack**.
 
-I'm **Jack Douglas**, and I am a student at the University of Waterloo studying software engineering. 
+I am a student at the University of Waterloo studying software engineering who is interested in data science, distributed algorithms, and concurrent computing.
 
 I am looking for September - December 2021 internship opportunities. If my skillset interests you, please reach out to me!
 
-## Work Experience and Interests
+## Experience & Interests
 
-I am an incoming software engineering intern at Blackberry. I previously worked at Geminare as a machine learning software developer. As well, I worked in the Focused Ultrasound Lab at Sunnybrook Hospital as a software developer.
+I have worked as an SWE at Blackberry, as a machine learning software developer at Geminare, and as software developer in the FUS Lab at Sunnybrook Hospital.
 
-Some areas of software engineering that interest me include:
+I am a Workshop Lead for the Waterloo Data Science Club. I have designed and presented workshops on neural networks, computer vision, and clustering. 
 
-- Data science
-- Distributed algorithms
-- Concurrent computing
-
-⚡ Check out some of the projects I've worked on! ⚡
-
-## Hobbies & Extracurriculars
-
-I am the VP of Education for the Waterloo Data Science Club. I have run workshops and mentored computer vision projects for club members. 
-
-Aside from academics, I have been involved with athletics for most of my life. 
-
-- I played elite baseball, which is the highest level of amateur baseball in Ontario, for the Ontario Blue Jays and Toronto Mets ⚾
-- I ski raced out of Osler Bluff, and competed yearly at Ontario provincials ⛷️
-- I played on the Varisty soccer team at OFSAA's ⚽
+Aside from academics, I have been involved with athletics for most of my life: 
+- Ontario Blue Jays and Toronto Mets ⚾
+- Alpine Ontario Racer ⛷️
+- JV & Varisty ⚽
 
 ## Contact Info 
 
