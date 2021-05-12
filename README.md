@@ -8,7 +8,7 @@ I am looking for September - December 2021 internship opportunities. If my skill
 
 I have worked as an SWE at BlackBerry, as a machine learning software developer at Geminare, and as software developer in the FUS Lab at Sunnybrook Hospital.
 
-I am a Workshop Lead for the Waterloo Data Science Club. I have designed and presented workshops on neural networks, computer vision, and clustering. 
+I am the VP of Education for the Waterloo Data Science Club. I have designed and presented workshops on neural networks, computer vision, and clustering. 
 
 Aside from academics, I have been involved with athletics for most of my life: 
 - Ontario Blue Jays and Toronto Mets ⚾
