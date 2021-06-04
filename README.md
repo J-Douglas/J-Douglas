@@ -4,7 +4,7 @@ I am a student at the University of Waterloo studying software engineering who i
 
 I have worked as an SWE at BlackBerry, as a machine learning software developer at Geminare, and as software developer in the FUS Lab at Sunnybrook Hospital.
 
-I am the VP of Education for the Waterloo Data Science Club. I have designed and presented workshops on neural networks, computer vision, and clustering. 
+I am the VP of Education for the Waterloo Data Science Club. I have designed and presented workshops on neural networks, computer vision, and clustering. Check out my workshops and other side-projects below! 
 
 **I am looking for September - December 2021 internship opportunities. If my skillset interests you, please reach out to me!**
 
